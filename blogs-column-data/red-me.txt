@@ -1,0 +1,53 @@
+=== Blogs Column Data ===
+Contributors: bestwpdeveloper, ferdaussk
+Tags: administration, column, user, admin
+Requires at least: 5.0
+Tested up to: 5.5
+Requires PHP: 5.6
+License: GPl V2
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Stable tag: trunk
+
+A simple and nice plugin to see some blogs column. And also it'll be helpfull for knowing every blogs ID's and you'll that how mutch word have in this blogs and also you can filter your blogs with thumbnails base.
+
+== Description ==
+A simple and nice plugin to see some blogs column. And also it'll be helpfull for knowing every blog ID's and you'll that how mutch word have in this blogs and also you can filter your blogs with thumbnails base. This plugin will be helpfull for a admin or a developers. Case he can see the blogs id's easyly.
+
+Unblocking a user is easy. Assign them to their previous role and you're done!
+
+== Installation ==
+Installation is fairly straight forward. Install it from the WordPress plugin repository. 
+
+== Changelog ==
+
+= 1.0.0 =
+* Initial Release
+
+
+=== Blogs Column Data ===
+Contributors: bestwpdeveloper, ferdaussk49
+Tags: administration, column, user, admin
+Requires at least: 5.0
+Tested up to: 5.5
+Requires PHP: 5.6
+License: GPl V2
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Stable tag: trunk
+
+A simple and nice plugin to see some blogs column. And also it'll be helpful for knowing every blogs ID's and you'll that how many words have in these blogs and also you can filter your blogs with a thumbnails base.
+
+== Description ==
+A simple and nice plugin to see some blogs column. And also it'll be helpful for knowing every blog ID's and you'll that how mutch word has in this blogs and also you can filter your blogs with thumbnails base. This plugin will be helpful for an admin or developers. In this case, he can see the id of the blogs easily.
+
+Unblocking a user is easy. Assign them to their previous role and you're done!
+
+== Installation ==
+Installation is fairly straightforward. Install it from the WordPress plugin repository. 
+
+== Changelog ==
+
+== Frequently Asked Questions ==
+
+
+= 1.0.0 =
+* Initial Release
